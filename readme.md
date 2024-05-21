@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Product Analytics Technical Test
+# Product Analytics Technical Test (IronHack Delivery)
 
 ***The following paragraph is usual on job tech interviews.***
 *Being hands on is one of the key requirements for this role. You need to complete this test in a maximum of 3 days from the day you receive it. The faster you deliver it, the better.*
